@@ -122,4 +122,4 @@ Note: For handling images, e.g. reading images, etc. we would recommend using PI
 
 	g) 45 degree left rotated image along with the 3 generated captions.
 
-**Please read the class definitions very carefully. In this assignment you do not need to code a lot, but you need to understand how to integrate several custom modules together in a clean way. More details on the arguments and the return types are provided in the corresponding files.**
+
